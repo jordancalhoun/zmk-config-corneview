@@ -58,6 +58,8 @@
 &kp LSHFT  &kp Z  &kp X  &kp C         &kp V         &kp B           &kp N        &kp M          &kp COMMA             &kp DOT  &kp FSLH  &kp RIGHT_SHIFT
                          &kp LEFT_ALT  &kp LEFT_GUI  &tl 1 RETURN    &tl 2 SPACE  &kp BACKSPACE  &kp LA(LC(LEFT_GUI))
             >;
+
+            label = " ";
         };
 
         num_arrows {
